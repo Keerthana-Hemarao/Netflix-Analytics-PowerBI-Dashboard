@@ -77,16 +77,16 @@ A full Exploratory Data Analysis (EDA) was performed covering:
 - Trend analysis
 
 The notebook is included under:  
-`[/notebooks/netflix_eda.ipynb](https://colab.research.google.com/drive/1Joc-rfxsePAvk6wO6ZBOVvKuiBvgKrDs?usp=sharing)`
+https://github.com/Keerthana-Hemarao/Netflix-Analytics-PowerBI-Dashboard/blob/0c772f9dac963148d9450d1e1401f23caa3ab7d2/eda_netflix.ipynb
 
 ---
 
 ## Dashboard Screenshots
 ```
-![Home Page](images/netflix_home.png)
-![Summary Dashboard](images/netflix_summary.png)
-![Insights Dashboard](images/netflix_insights.png)
-![Finance Dashboard](images/netflix_finance.png)
+https://github.com/Keerthana-Hemarao/Netflix-Analytics-PowerBI-Dashboard/blob/0c772f9dac963148d9450d1e1401f23caa3ab7d2/Netflix%20Home.png
+https://github.com/Keerthana-Hemarao/Netflix-Analytics-PowerBI-Dashboard/blob/0c772f9dac963148d9450d1e1401f23caa3ab7d2/Netflix%20Summary.png
+https://github.com/Keerthana-Hemarao/Netflix-Analytics-PowerBI-Dashboard/blob/0c772f9dac963148d9450d1e1401f23caa3ab7d2/Netflix%20Insights.png
+https://github.com/Keerthana-Hemarao/Netflix-Analytics-PowerBI-Dashboard/blob/0c772f9dac963148d9450d1e1401f23caa3ab7d2/Netflix%20Finance%20and%20Analytics.png
 ```
 
 ## Key Insights Summary
