@@ -81,13 +81,13 @@ https://github.com/Keerthana-Hemarao/Netflix-Analytics-PowerBI-Dashboard/blob/0c
 
 ---
 
-## Dashboard Screenshots
-```
-https://github.com/Keerthana-Hemarao/Netflix-Analytics-PowerBI-Dashboard/blob/0c772f9dac963148d9450d1e1401f23caa3ab7d2/Netflix%20Home.png
-https://github.com/Keerthana-Hemarao/Netflix-Analytics-PowerBI-Dashboard/blob/0c772f9dac963148d9450d1e1401f23caa3ab7d2/Netflix%20Summary.png
-https://github.com/Keerthana-Hemarao/Netflix-Analytics-PowerBI-Dashboard/blob/0c772f9dac963148d9450d1e1401f23caa3ab7d2/Netflix%20Insights.png
-https://github.com/Keerthana-Hemarao/Netflix-Analytics-PowerBI-Dashboard/blob/0c772f9dac963148d9450d1e1401f23caa3ab7d2/Netflix%20Finance%20and%20Analytics.png
-```
+## Dashboard Preview
+
+![Netflix Home Dashboard](https://github.com/Keerthana-Hemarao/Netflix-Analytics-PowerBI-Dashboard/blob/0c772f9dac963148d9450d1e1401f23caa3ab7d2/Netflix%20Home.png)
+![Netflix Summary Dashboard](https://github.com/Keerthana-Hemarao/Netflix-Analytics-PowerBI-Dashboard/blob/0c772f9dac963148d9450d1e1401f23caa3ab7d2/Netflix%20Summary.png)
+![Netflix Insights Dashboard](https://github.com/Keerthana-Hemarao/Netflix-Analytics-PowerBI-Dashboard/blob/0c772f9dac963148d9450d1e1401f23caa3ab7d2/Netflix%20Insights.png)
+![Netflix Finance Dashboard](https://github.com/Keerthana-Hemarao/Netflix-Analytics-PowerBI-Dashboard/blob/0c772f9dac963148d9450d1e1401f23caa3ab7d2/Netflix%20Finance%20and%20Analytics.png)
+
 
 ## Key Insights Summary
 - Drama, Action & Animation show strongest financial performance  
